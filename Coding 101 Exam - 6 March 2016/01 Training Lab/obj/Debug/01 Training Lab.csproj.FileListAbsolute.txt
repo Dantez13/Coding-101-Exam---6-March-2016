@@ -1,0 +1,6 @@
+D:\Visual Studio\Coding 101 Exam - 6 March 2016\01 Training Lab\bin\Debug\01 Training Lab.exe.config
+D:\Visual Studio\Coding 101 Exam - 6 March 2016\01 Training Lab\bin\Debug\01 Training Lab.exe
+D:\Visual Studio\Coding 101 Exam - 6 March 2016\01 Training Lab\bin\Debug\01 Training Lab.pdb
+D:\Visual Studio\Coding 101 Exam - 6 March 2016\01 Training Lab\obj\Debug\01 Training Lab.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Coding 101 Exam - 6 March 2016\01 Training Lab\obj\Debug\01 Training Lab.exe
+D:\Visual Studio\Coding 101 Exam - 6 March 2016\01 Training Lab\obj\Debug\01 Training Lab.pdb
